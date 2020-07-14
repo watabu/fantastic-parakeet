@@ -1,0 +1,4 @@
+;Python ものくろ
+
+n=input()
+print(n)
