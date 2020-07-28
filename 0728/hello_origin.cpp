@@ -12,9 +12,12 @@ void hello_N(int num) {
 
 int main() {
 	int N;
+	cout << "‰½‰ñ‚ ‚¢‚³‚Â‚·‚éH:";
 	cin >> N;
-	
+
 	hello_N(N);
+
+	cout << "ˆ¥ŽAI‚í‚è\n";
 
 	return 0;
 }
