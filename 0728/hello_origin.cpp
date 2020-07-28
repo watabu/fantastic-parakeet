@@ -1,7 +1,10 @@
 #include <string>
+
 #include <iostream>
+
 using namespace std;
 
+//‚¢‚ë‚¢‚ë‰üs‚Æ‚©ˆÓ–¡‚Ì‚È‚¢‚à‚Ì‚ğ‘«‚µ‚½•û
 
 int main() {
 	int N;
@@ -9,8 +12,18 @@ int main() {
 	
 	for (int i = 0; i < num; i++) {
 		cout << "hello ";
-	}
-	cout << endl;
 
+	}
+	//‚¨‚í‚è‚¢‚¢‚¢‚¢‚¢
+	cout << endl;
+	
+	
+	
+	//ƒŠƒ^[ƒ“0000000
+	
 	return 0;
 }
+
+
+
+
